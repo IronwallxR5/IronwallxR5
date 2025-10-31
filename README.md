@@ -18,9 +18,6 @@
 
 ## 📊 Contribution Overview
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IronwallxR5&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IronwallxR5&layout=compact&theme=dark&hide_border=true) |
-|:---:|:---:|
-
 [![Padam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IronwallxR5&theme=tokyo-night)](https://github.com/IronwallxR5/)
 
 
