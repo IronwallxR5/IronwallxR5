@@ -1,24 +1,72 @@
+# <p align="center">Hi, I'm Padam! 👋</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-## 🏆 Achievements:
+> **System.out.println("Building the future, one commit at a time.");**
+>
+>  **Thinking:** Solving complex problems at the intersection of AI and competitive programming.                                         
+>  **Strategizing:** If I’m not at my keyboard, I’m probably analyzing a chess opening or looking at the stars.                            
+>  **Building:** Currently scaling the learning curve of Open Source and contributing to the SymPy ecosystem.
+> 
+> <p align="center">
+> <i>“Talk is cheap. Show me the code (and maybe your Elo rating).”</i>
+> </p>
+
+---
+
+<p align="center">
+<a href="https://linkedin.com/in/padam-rathi-00b4b533b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/Rathi_Padam"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+<a href="mailto:rathipadamr5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+
+**Databases & Backend:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+
+**Tools, AI & DevOps:** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=Cloudinary&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 🏆 Competitive Programming
+<p align="center">
+  <a href="https://codeforces.com/profile/IronwallxR5">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=IronwallxR5&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ironwallxr5">
+    <img src="https://img.shields.io/badge/CodeChef-ironwallxr5-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/IronwallxR5">
+    <img src="https://img.shields.io/badge/LeetCode-IronwallxR5-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api?username=IronwallxR5&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=IronwallxR5&theme=tokyonight&hide_border=false&layout=compact" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=IronwallxR5&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
+</p>
+
+## 🎖️ Achievements
 <p align="center">
   <a href="https://holopin.io/@IronwallxR5">
     <img src="https://holopin.me/IronwallxR5" alt="@IronwallxR5's Holopin Badges" />
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IronwallxR5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IronwallxR5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IronwallxR5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=IronwallxR5&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 📊 Contribution Overview
-
+## 📈 Activity Graph
 [![Padam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IronwallxR5&theme=tokyo-night)](https://github.com/IronwallxR5/)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
