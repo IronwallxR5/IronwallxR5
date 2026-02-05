@@ -1,4 +1,17 @@
-# <p align="center">Hi, I'm Padam! 👋</p>
+<!-- <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=700&lines=std%3A%3Agreet(%22Padam+Rathi%22)%3B;Competitive+Programmer;SymPy+Contributor+%7C+Open+Source;Chess+Strategist+%E2%99%9E;Solving+at+the+intersection+of+AI+%26+Math.;Talk+is+cheap.+Show+me+the+code."/>
+</div> -->
+
+<!-- <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Commit+at+a+Time.;C%2B%2B+%7C+Python+%7C+AI%2FML;Optimizing+Code+%26+Outmaneuvering+on+the+Board.;Searching+for+Elegance+in+Algorithms."/>
+</div> -->
+
+<!-- <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+whoami;%3E+Padam+Rathi;%3E+Status%3A+Optimizing_Logic...;%3E+Open+Source+Enthusiast;%3E+Always+down+to+collaborate."/>
+</div> -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=%3E+whoami;%3E+Padam+Rathi;%3E+Status%3A+Optimizing_Logic...;%3E+Open+Source+Enthusiast;%3E+Always+down+to+collaborate."/>
+</div>
 
 > **System.out.println("Building the future, one commit at a time.");**
 >
